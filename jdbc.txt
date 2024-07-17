@@ -1,0 +1,57 @@
+/* this is for read data from the database
+    //at the time of read data we use executeQuery 
+        
+        String query1="select * from product";
+
+        ResultSet resultSet=statement.executeQuery(query1);
+
+
+        while (resultSet.next()) 
+        {
+            // we have to print the values in the database 
+            // so we can get the values from the mysql that values we have to store in local variable
+            // so, create variable for the id,name,price 
+
+            int productId,price;
+            String name;
+
+            productId =resultSet.getInt("productId");
+            name=resultSet.getString("name");
+            price=resultSet.getInt("price");
+
+
+            System.out.println("id:  "+productId);
+            System.out.println("name:  "+name);
+            System.out.println("price:  "+price);
+
+            }
+*/
+            
+
+
+/*this is for insert the data into the database table 
+*/
+//every time we dont have to convert the values in their datatype for that we use string.format
+  String query2=String.format("insert into product (productId ,name ,price) values(%o,'%s',%o)",3,"rubber",5);
+ 
+
+  //at the time of update we use executeUpdata
+  // when we update the table executeUpdate return the no of rows which are updated 
+
+  int rowsAffected =statement.executeUpdate(query2);
+
+  if(rowsAffected>0)
+  {
+    System.out.println("data inserted successfully updated");
+  }
+  else{
+    System.out.println("data is not inserted");
+  }
+
+
+
+        
+
+
+
+
