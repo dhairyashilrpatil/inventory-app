@@ -6,6 +6,7 @@ import java.awt.event.ActionEvent;
 //this page for owner login
 import java.awt.event.ActionListener;
 
+
 public class loginpage1 implements ActionListener
 {   
     private String user="owner" ;
@@ -13,7 +14,7 @@ public class loginpage1 implements ActionListener
 
 
     JFrame jf;
-    JLabel jl,jl1;
+    JLabel jl,jl1,jl3;
     JTextField jt,jt1;
     JButton jb;
    
@@ -22,11 +23,13 @@ public class loginpage1 implements ActionListener
    public loginpage1()
    {
     jf=new JFrame();
-    jf.setSize(600, 600);
+    jf.setBounds(500,350,600,140);
     jl=new JLabel("Uerrname");
     jl1=new JLabel("Password");
     jb=new JButton("ok");
     jb.addActionListener( this);
+
+    jl3=new JLabel("enter username and password");
   
 
     jt=new JTextField(15);
@@ -45,32 +48,42 @@ public class loginpage1 implements ActionListener
     jp.add(jb);
    
 
-    jf.add(jp);
+    jf.add(jp,BorderLayout.CENTER);
+    jf.add(jl3);
 
     jf.setVisible(true);
     Border b=BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLACK),"Owner Login Page");
 
     jp.setBorder(b);
-
-
-   
-
-
-
-
-
-
-
     jf.setLayout(new FlowLayout());
-
+    jf.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
    }
+
    public void actionPerformed(ActionEvent e)
    {
-    if(jt.getText().equals(user)&&jt1.getText().equals(password))
-    {
-        mainpageO a=new mainpageO();
-    }
+             if(jt.getText().equals(user)&&jt1.getText().equals(password))
+               {
+                  mainpageO a=new mainpageO();
+               }
+               else if(jt.getText().equals(user)==false&&jt1.getText().equals(password)==false)
+                   {
+                     jl3.setText("invalid username and password");
+                                      jt.setText(null);
+                         jt1.setText(null);
+                   }
+                     else if(jt.getText().equals(user)==false)
+                 {
+                         jl3.setText("invalid username");
+                         jt.setText(null);
+                 }
+                     else
+                 {
+                         jl3.setText("invalid password");
+                         jt1.setText(null);
+                 }
+
    }
+  
 
 
     
