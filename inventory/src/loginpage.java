@@ -1,3 +1,102 @@
+
+import javax.swing.*;
+import javax.swing.border.Border;
+
+import java.awt.*;
+import java.awt.event.*;
+
+class myframe implements ActionListener
+{
+JFrame jf;
+JButton jb,jb1;
+
+JPanel jp;
+//Border b;
+
+
+
+    public myframe(String s)
+    {
+       jf=new JFrame(s);
+      
+       jf.setBounds(300,150,1000,430);
+
+       jb=new JButton("OWNER",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\owner.png"));
+      
+       jb.addActionListener(this);
+       jp=new JPanel();
+
+
+       jb1=new JButton("EMPLOYEE",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\employee.png"));
+       
+       jb1.addActionListener(this);
+
+
+       jp.add(jb);
+       jp.add(jb1);
+
+       Border b=BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLACK));
+
+       jp.setBorder(b); 
+     
+       jf.add(jp);
+
+       jf.setLayout(new FlowLayout());
+       jf.setVisible(true);
+       jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+     
+       
+    }
+    
+    
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if(e.getSource()==jb)
+        {
+            jf.setVisible(false);
+            loginpage1 l1=new loginpage1();
+        }
+        else if(e.getSource()==jb1)
+        {
+            jf.setVisible(false);
+            loginpage2 l2=new loginpage2();
+            
+
+        }
+    }
+
+
+
+}
+
+public class loginpage
+{
+    public static void main(String[] args) {
+        myframe mf=new myframe("login page");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*import java.awt.*;
 import java.awt.event.*;
 //import java.awt.image.BufferedImage;
@@ -98,75 +197,4 @@ public class loginpage{
 }
 
 */
-
-
-
-
-
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
-
-class myframe implements ActionListener
-{
-JFrame jf;
-JButton jb,jb1;
-
-
-
-
-    public myframe(String s)
-    {
-       jf=new JFrame(s);
-      
-       jf.setBounds(0,0,1500,850);
-
-       jb=new JButton("OWNER",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\owner.png"));
-      
-       jb.addActionListener(this);
-
-
-       jb1=new JButton("EMPLOYEE",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\employee.png"));
-       
-       jb1.addActionListener(this);
-
-
-       jf.add(jb,BorderLayout.WEST);
-       jf.add(jb1,BorderLayout.WEST);
-     
-       
-
-      jf.setLayout(new FlowLayout());
-       jf.setVisible(true);
-       jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-
-
-       
-    }
-
-    @Override
-    public void actionPerformed(ActionEvent e) {
-        if(e.getSource()==jb)
-        {
-            loginpage1 l1=new loginpage1();
-        }
-        else if(e.getSource()==jb1)
-        {
-            loginpage2 l2=new loginpage2();
-
-        }
-        
-    }
-
-
-
-}
-
-public class loginpage
-{
-    public static void main(String[] args) {
-        myframe mf=new myframe("login page");
-    }
-}
 
