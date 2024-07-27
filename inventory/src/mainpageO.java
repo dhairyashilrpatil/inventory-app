@@ -1,17 +1,20 @@
 import java.awt.*;
 
+import javax.swing.*;
+
+
 
 public class mainpageO 
 {
-    Frame f;
-    Button b;
+    JFrame f;
+    JButton b;
 
    public mainpageO()
    {
-    f=new Frame(); 
+    f=new JFrame(); 
     f.setBounds(500, 200, 100, 25);
 
-    b=new Button("welcome");
+    b=new JButton("welcome");
     b.setBounds(500, 200, 100, 25);
 
     f.add(b);
@@ -25,7 +28,7 @@ public class mainpageO
 
     f.setBounds(width/8, height/8, width, height);
     f.setLayout(null);
-    
+   f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     f.setVisible(true);
 
    }
