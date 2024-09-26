@@ -16,18 +16,21 @@ public class loginpage1 implements ActionListener
     JFrame jf;
     JLabel jl,jl1,jl3;
     JTextField jt,jt1;
-    JButton jb;
+    JButton jb,back;
    
     JPanel jp;
 
    public loginpage1()
    {
     jf=new JFrame();
-    jf.setBounds(500,350,600,140);
-    jl=new JLabel("Uerrname");
+    jf.setBounds(500,350,600,160);
+    jl=new JLabel("Username");
     jl1=new JLabel("Password");
     jb=new JButton("ok");
     jb.addActionListener( this);
+    back=new JButton("back");
+
+    back.addActionListener(this);
 
     jl3=new JLabel("enter username and password");
   
@@ -50,6 +53,8 @@ public class loginpage1 implements ActionListener
 
     jf.add(jp,BorderLayout.CENTER);
     jf.add(jl3);
+    jp.add(back);
+  
 
     jf.setVisible(true);
     Border b=BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLACK),"Owner Login Page");
@@ -61,32 +66,39 @@ public class loginpage1 implements ActionListener
 
    public void actionPerformed(ActionEvent e)
    {
-             if(jt.getText().equals(user)&&jt1.getText().equals(password))
-               {
-                  mainpageO a=new mainpageO();
-               }
-               else if(jt.getText().equals(user)==false&&jt1.getText().equals(password)==false)
-                   {
-                     jl3.setText("invalid username and password");
-                                      jt.setText(null);
-                         jt1.setText(null);
-                   }
-                     else if(jt.getText().equals(user)==false)
-                 {
-                         jl3.setText("invalid username");
-                         jt.setText(null);
-                 }
-                     else
-                 {
-                         jl3.setText("invalid password");
-                         jt1.setText(null);
-                 }
+    if(e.getSource()==jb)
+    {
+      
+      if(jt.getText().equals(user)&&jt1.getText().equals(password))
+      {
+         mainpageO a=new mainpageO();
+      }
+      else if(jt.getText().equals(user)==false&&jt1.getText().equals(password)==false)
+          {
+            jl3.setText("invalid username and password");
+            jt.setText(null);
+            jt1.setText(null);
+          }
+            else if(jt.getText().equals(user)==false)
+          {
+             jl3.setText("invalid username");
+             jt.setText(null);
+          }
+            else
+        {
+            jl3.setText("invalid password");
+            jt1.setText(null);
+        }
+    }
+    if(e.getSource()==back)
+    {
+      myframe p=new myframe("loginPage");
+      p.setVisible(true);
+      jf.setVisible(false);
+      
+    }
 
-   }
-  
-
-
-    
+  }    
 }
 
 

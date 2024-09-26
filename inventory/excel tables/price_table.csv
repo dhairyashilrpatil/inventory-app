@@ -1,0 +1,1000 @@
+product_id,sale_price,market_price,type
+1,220,220,Hair Oil & Serum
+2,180,180,Water & Fridge Bottles
+3,119,250,Lamp & Lamp Oil
+4,149,176,"Laundry, Storage Baskets"
+5,162,162,Bathing Bars & Soaps
+6,169,199,Disinfectant Spray & Cleaners
+7,58,58,Face Care
+8,250,250,Hand Wash & Sanitizers
+9,1098,1098,Shampoo & Conditioner
+10,20,20,"Utensil Scrub-Pad, Glove"
+11,261,290,Flours & Pre-Mixes
+12,600,600,"Luxury Chocolates, Gifts"
+13,110,110,Face Care
+14,350,350,Floor & Other Cleaners
+15,200,200,Mosquito Repellent
+16,49,59,Soap Cases & Dispensers
+17,324,360,Aromatherapy
+18,180,180,Roasted Seeds & Nuts
+19,120,120,Roasted Seeds & Nuts
+20,85.14,90,Tofu
+21,525,700,Tools & Accessories
+22,45,50,Imported Noodles
+23,120,120,Other Dry Fruits
+24,75,75,Gourmet Tea & Tea Bags
+25,195,195,Choppers & Graters
+26,659,895,Casserole
+27,245,265,Granola & Cereal Bars
+28,53.9,55,Other Dry Fruits
+29,90,110,Frozen Veg Snacks
+30,169.15,199,Lip Care
+31,19,20,Juices
+32,102,120,"Bakery Biscuits, Cookies"
+33,211.65,249,Men's Deodorants
+34,225,225,Green Tea
+35,499,969,Containers Sets
+36,98,120,Whole Spices
+37,46.75,55,Blended Masalas
+38,136.5,195,Men's Deodorants
+39,112.75,205,Men's Deodorants
+40,160,200,Chocolates
+41,427.5,450,Eau De Toilette
+42,360,360,Bathing Bars & Soaps
+43,275,275,"Cookies, Biscotti, Wafer"
+44,109,299,Steel Lunch Boxes
+45,179,179,"Olive, Jalapeno, Gherkin"
+46,250,250,"Organic Rice, Other Rice"
+47,459.62,469,Shaving Care
+48,799,799,Imported Cleaners
+49,245,245,Thai & Asian Sauces
+50,100,125,Chutney Powder
+51,48.95,55,Cooking Pastes
+52,850,850,Gourmet Juices & Drinks
+53,80,100,Face & Body
+54,56,70,Chocolates
+55,202.5,225,Beans & Pulses
+56,299.4,499,Face Care
+57,60,60,"Papads, Ready To Fry"
+58,199.5,210,Hair & Scalp Treatment
+59,199,199,Baby Health
+60,399,399,"Notebooks, Files, Folders"
+61,149,179,Kitchen Tools & Other Accessories
+62,348.6,498,Pet Meals & Treats
+63,209.4,349,"Chocolate, Peanut Spread"
+64,35,35,"Marie, Health, Digestive"
+65,168.75,225,Shampoo & Conditioner
+66,269.4,449,Face Care
+67,339.15,399,Pet Meals & Treats
+68,374.25,499,Electric Toothbrush
+69,72,72,Whole Spices
+70,840,840,Pet Collars & Leashes
+71,43,43,Toothpaste
+72,120,150,Face Care
+73,210,300,Aromatherapy
+74,70,70,Roasted Seeds & Nuts
+75,75,126,Water & Fridge Bottles
+76,500,500,Face Care
+77,135,299,Kitchen Tools & Other Accessories
+78,108,120,Bathing Bars & Soaps
+79,49,65,Dry Fruits & Berries
+80,49,79,Toothbrush
+81,65,65,Chips & Corn Snacks
+82,269.1,299,Imported Soups
+83,96,96,Organic Dals & Pulses
+84,225,225,Gourmet Ice Cream
+85,95,114,Dishwash Bars & Powders
+86,479,629,Glassware
+87,695.7,773,International Cheese
+88,31.5,35,"Agarbatti, Incense Sticks"
+89,254.15,299,Bathing Bars & Soaps
+90,55,55,Cut & Peeled Veggies
+91,120,120,Ayurveda
+92,864.5,910,Tawa & Sauce Pan
+93,80.01,90,"Flavoured, Soya Milk"
+94,10,10,Namkeen & Savoury Snacks
+95,129,249,Steel Storage Containers
+96,179.4,299,Men's Deodorants
+97,1200,1200,Hair Removal
+98,32.55,35,Hand Wash & Sanitizers
+99,258.75,345,Aromatherapy
+100,1266.38,1398,Diapers
+101,515,515,Other Edible Oils
+102,495,495,Quinoa & Grains
+103,230,230,Shampoo & Conditioner
+104,225,250,Shower Gel & Body Wash
+105,30,30,"Marie, Health, Digestive"
+106,289,749,Umbrella
+107,243,360,Juices
+108,137.75,145,Shampoo & Conditioner
+109,249,315,Kadai & Fry Pans
+110,349,349,Baby Food
+111,60,60,"Agarbatti, Incense Sticks"
+112,209.3,299,Body Care
+113,28.5,30,Organic Masalas & Spices
+114,44.1,49,Gourmet Popcorn
+115,182.75,215,Aromatherapy
+116,35,43.75,Organic Fruits
+117,150,150,Leaf & Dust Tea
+118,69,159,Bowls & Vessels
+119,999,999,Pet Meals & Treats
+120,100,100,Rusks
+121,1099,1335,Kadai & Fry Pans
+122,53.35,55,Air Freshener
+123,23,28.75,Cabbage & Cauliflower
+124,269,299,Lunch Boxes
+125,183,185,"Sunflower, Rice Bran Oil"
+126,179,280,Containers Sets
+127,29.7,33,Chips & Corn Snacks
+128,455,525,Lip Care
+129,1299,1299,Supplements & Proteins
+130,299,398,Glassware
+131,23.76,30,Cream Biscuits & Wafers
+132,39,48.75,"Banana, Sapota & Papaya"
+133,14,17.5,"Lemon, Ginger & Garlic"
+134,90,100,Chocolates
+135,230,230,"Olive, Jalapeno, Gherkin"
+136,159,190,Glassware
+137,85.5,90,"Baking, Cake Decorations"
+138,250,250,International Chocolates
+139,75,75,Breakfast & Snack Mixes
+140,369,425,Water & Fridge Bottles
+141,125,125,Plates & Tumblers
+142,280,280,"Organic Edible Oil, Ghee"
+143,66,66,Other Dry Fruits
+144,90,90,Lime & Mango Pickle
+145,32,64,Powdered Spices
+146,20,20,"Milk, White & Sandwich"
+147,225,225,"Curry Paste, Coconut Milk"
+148,225,225,Flakes
+149,250,250,Flavoured & Other Oils
+150,639,975,Glassware
+151,289,358,Glassware
+152,120,120,Toothbrush
+153,459,705,Glassware
+154,50,50,"Healthy, Baked Snacks"
+155,350,350,Hair Removal
+156,247,260,"Baking, Cake Decorations"
+157,429.03,700,"Pure, Pomace Olive Oil"
+158,25,42,Water & Fridge Bottles
+159,185,185,Quinoa & Grains
+160,112.5,150,Face Care
+161,77,77,Air Freshener
+162,189,220,Glassware
+163,199,199,Hair Color
+164,40,40,Bathing Bars & Soaps
+165,450,450,Gourmet Tea & Tea Bags
+166,179,179,Bibs & Napkins
+167,232,399,Exam Pads & Pencil Box
+168,79,109,"Healthy, Baked Snacks"
+169,80,80,Breakfast & Snack Mixes
+170,509,565,Lunch Boxes
+171,110,110,Sports & Energy Drinks
+172,142.5,190,Face Care
+173,90,100,Hair Oil & Serum
+174,699,999,Diapers
+175,799,799,Face Care
+176,328,450,Aromatherapy
+177,40,40,Bathing Bars & Soaps
+178,430,430,Bathing Bars & Soaps
+179,195,195,Everyday Medicine
+180,159,260,CFL & Led Bulbs
+181,81.06,109.38,Indian & Exotic Herbs
+182,56,70,Sugar & Jaggery
+183,19,20,Blended Masalas
+184,509,509,"Kitchen, Glass & Drain"
+185,148.5,165,Face Care
+186,119,149,Breakfast & Snack Mixes
+187,99,99,Lip Care
+188,20,20,Heat & Eat Ready Meals
+189,165,165,Ayurveda
+190,2369,2780,Pressure Cookers
+191,150,150,Pet Meals & Treats
+192,699,699,Aromatherapy
+193,333,450,Body Care
+194,155,155,Gourmet Bread
+195,75,75,"Healthy, Baked Snacks"
+196,558,620,"Mops, Wipers"
+197,10,12.5,Organic Vegetables
+198,33,33,"Notebooks, Files, Folders"
+199,67.5,75,Imported Noodles
+200,378,378,Flours & Pre-Mixes
+201,40,40,Chikki & Gajjak
+202,4900,5000,Attar
+203,278.4,348,Body Sprays & Mists
+204,52,52,Organic Masalas & Spices
+205,697.5,775,Aromatherapy
+206,20,20,Home Baking
+207,78.4,98,Toothpaste
+208,149.25,199,Face Care
+209,65,82,"Strainer, Ladle, Spatula"
+210,35,35,Rusks
+211,295,295,Ayurveda
+212,147,147,Hand Wash & Sanitizers
+213,108.78,117,Hair Color
+214,449.1,499,Balsamic & Cider Vinegar
+215,10,12.5,Organic Vegetables
+216,29.75,35,"Flavoured, Soya Milk"
+217,25,25,"Marie, Health, Digestive"
+218,28,28,Blended Masalas
+219,87.12,100,Chocolates
+220,699,699,Baby Wipes
+221,105,131.25,Exotic Fruits
+222,249,449,Dustbins
+223,19,23.75,"Cut Fruit, Tender Coconut"
+224,44.2,52,Powdered Spices
+225,90,120,Face Care
+226,33.6,42,Organic Vegetables
+227,275,275,Bathing Bars & Soaps
+228,2059,2424,Pressure Cookers
+229,249,339,Steel Storage Containers
+230,225,225,Supplements & Proteins
+231,329.8,400,Talcum Powder
+232,140,140,Chocolates
+233,32,40,Cut & Peeled Veggies
+234,99,99,"Herbs, Seasonings & Rubs"
+235,319,495,Lunch Boxes
+236,49,85,Namkeen & Savoury Snacks
+237,166,175,Roasted Seeds & Nuts
+238,199,320,CFL & Led Bulbs
+239,135,150,"Paneer, Tofu & Cream"
+240,972,972,Body Care
+241,240,240,Frozen Fish & Seafood
+242,95,95,Nachos & Chips
+243,350,350,Exotic Sugar & Salt
+244,289,358,Glassware
+245,60,60,Salted Biscuits
+246,80,80,Ayurveda
+247,112.5,150,Lip Care
+248,218,218,Hand Wash & Sanitizers
+249,649,1289,Tawa & Sauce Pan
+250,110,110,Breakfast & Snack Mixes
+251,300,500,Attar
+252,432,480,Face Care
+253,609,999,Vacuum Flask
+254,1049.25,1399,Face Care
+255,39,69,Cotton & Ear Buds
+256,63.75,75,"Marshmallow, Candy, Jelly"
+257,595,595,Ayurveda
+258,89,125,Kitchen Tools & Other Accessories
+259,94.05,99,Organic Masalas & Spices
+260,35,35,Bathing Bars & Soaps
+261,171.6,220,Chicken Sausages
+262,385,385,Body Care
+263,80,80,Cotton & Ear Buds
+264,400,400,Health Drinks
+265,93.5,110,Frozen Vegetables
+266,29.7,33,Blended Masalas
+267,30,50,Whole Spices
+268,230.4,288,Bathing Bars & Soaps
+269,169,309,Water & Fridge Bottles
+270,3500,3500,Eau De Parfum
+271,109,109,Cotton & Ear Buds
+272,125,125,Breakfast & Snack Mixes
+273,270,270,"Curry Paste, Coconut Milk"
+274,409,502,Glassware
+275,285,285,Imported Cleaners
+276,1330,1900,Eau De Toilette
+277,60,60,Ayurveda
+278,140,140,"Paper Napkin, Tissue Box"
+279,34,42.5,"Cut Fruit, Tender Coconut"
+280,320,320,Exotic Sugar & Salt
+281,351,390,Aromatherapy
+282,128,160,"Toor, Channa & Moong Dal"
+283,99,99,Sippers & Bottles
+284,159.5,290,Men's Deodorants
+285,499,499,Face Care
+286,131.2,160,Bathing Bars & Soaps
+287,61.2,68,Instant Noodles
+288,90,90,Cereals & Millets
+289,325,325,Mustard & Cheese Sauces
+290,350,350,Chocolates
+291,84.15,99,Gourmet Juices & Drinks
+292,900,1500,Face Care
+293,104.3,149,Face & Body
+294,191.25,225,Pork & Ham
+295,226.16,257,Mosquito Repellent
+296,209,269,Steel Storage Containers
+297,75,75,Breakfast & Snack Mixes
+298,1200,1200,Gourmet Juices & Drinks
+299,273,420,Face Care
+300,475,500,Flavoured & Other Oils
+301,93.5,110,Roasted Seeds & Nuts
+302,399,569,Basmati Rice
+303,37.5,50,Cream Biscuits & Wafers
+304,630,1050,Shampoo & Conditioner
+305,236,295,Face & Body
+306,259,259,Flours & Pre-Mixes
+307,549,732,Cook And Serve
+308,297,297,Gourmet Tea & Tea Bags
+309,249,370,Containers Sets
+310,231,420,Men's Deodorants
+311,300,300,Gourmet Tea & Tea Bags
+312,475,1195,Choppers & Graters
+313,28.05,33,Blended Masalas
+314,360,400,Pork & Ham
+315,149.72,258,Toothpaste
+316,150,150,Nursing Tools
+317,29,38,Containers Sets
+318,285,300,Chicken Sausages
+319,86.4,90,Face Care
+320,63,70,Face Care
+321,38,40,Cold Drinks
+322,425,425,Coffee & Pre-Mix
+323,219,265,Dustbins
+324,295,295,Shampoo & Conditioner
+325,789,1041,Glassware
+326,1229,1895,Dinner Sets
+327,140,140,Ayurveda
+328,290,290,Water & Fridge Bottles
+329,87,95,Detergent Bars
+330,166,195,Tea Bags
+331,352,400,Oats & Porridge
+332,275,275,"Cookies, Biscotti, Wafer"
+333,650,650,Oats & Porridge
+334,50,62.5,Exotic Vegetables
+335,180,200,"Olive, Jalapeno, Gherkin"
+336,60,60,Breakfast & Snack Mixes
+337,185,185,Roasted Seeds & Nuts
+338,112.5,125,Face Care
+339,318,318,Muffins & Cup Cakes
+340,180,195,Oats & Porridge
+341,475,475,Face Care
+342,178.5,210,Face Care
+343,549,1299,Copper Utensils
+344,1900.8,3300,Eau De Toilette
+345,171,190,Shampoo & Conditioner
+346,65,80,Toothpaste
+347,3330,3330,"Pure, Pomace Olive Oil"
+348,579,888,Glassware
+349,900,900,Shampoo & Conditioner
+350,332.5,350,Salad Dressings
+351,330,418.75,Exotic Fruits
+352,99,99,"Herbs, Seasonings & Rubs"
+353,140.25,165,"Hummus, Cheese, Salsa Dip"
+354,40,40,Cereal & Granola Bars
+355,45,50,Toothpaste
+356,104.3,149,Face Care
+357,123.5,130,Shampoo & Conditioner
+358,300,300,Organic Baby Food
+359,18.4,30,Whole Spices
+360,370.5,390,Hair Oil & Serum
+361,168.75,225,Chilli & Soya Sauce
+362,149,215,Dry Fruits & Berries
+363,48,48,Organic Masalas & Spices
+364,399,435,Bowls & Vessels
+365,1986.6,2220,Pet Meals & Treats
+366,410.4,456,Pork & Ham
+367,210,210,Other Veg Pickle
+368,388.88,425,Diapers
+369,320,320,Muesli
+370,499,499,Frozen Fish & Seafood
+371,607.75,715,Tomatoes & Vegetables
+372,20,20,"Flavoured, Soya Milk"
+373,180,180,Crackers & Digestive
+374,1280,1280,Dry Fruits & Berries
+375,485,485,Kids Cereal
+376,20,20,Cereal & Granola Bars
+377,120,120,Toilet Cleaners
+378,84.15,85,Cereals & Millets
+379,220,220,Juices
+380,530,530,International Cheese
+381,203.99,240,Toothpaste
+382,112.56,168,"Cookies, Biscotti, Wafer"
+383,330,330,Juices
+384,55.2,69,Hand Wash & Sanitizers
+385,40.5,45,"Baking, Cake Decorations"
+386,155,155,Tea Bags
+387,150,150,Roasted Seeds & Nuts
+388,239.2,299,Dust Cloth & Wipes
+389,80,80,Ayurveda
+390,191.25,225,Body Care
+391,119,149,Salad Dressings
+392,525,750,Gourmet Tea & Tea Bags
+393,161.1,179,Thai & Asian Sauces
+394,489,489,Tampons & Menstrual Cups
+395,29.75,35,"Flavoured, Soya Milk"
+396,432,540,Ghee & Vanaspati
+397,44,47,Organic Masalas & Spices
+398,950,950,Granola & Cereal Bars
+399,219,995,Steel Storage Containers
+400,111,120,"Flavoured, Soya Milk"
+401,500,500,Balsamic & Cider Vinegar
+402,210,210,Men's Deodorants
+403,2060,2290,Pressure Cookers
+404,349,349,Body Care
+405,36,40,Granola & Cereal Bars
+406,46.9,70,Nachos & Chips
+407,307.2,480,Dry Fruits & Berries
+408,21.56,22,Shaving Care
+409,209,209,Hand Wash & Sanitizers
+410,395,395,"Cups, Mugs & Tumblers"
+411,109,225,Other Pooja Needs
+412,82,82,Hair Removal
+413,114.8,140,Lip Care
+414,739,910,Casserole
+415,292.5,450,Face Care
+416,319,319,Floor & Other Cleaners
+417,879,1095,Vacuum Flask
+418,13,16.25,Organic Vegetables
+419,223.2,279,Men's Deodorants
+420,296.1,329,Body Care
+421,23,25,Organic Masalas & Spices
+422,129,169,Kitchen Tools & Other Accessories
+423,190,200,Chocolates
+424,161,161,Shampoo & Conditioner
+425,249,470,Water & Fridge Bottles
+426,121,199,Men's Deodorants
+427,68.85,81,Body Care
+428,100,100,Disinfectant Spray & Cleaners
+429,340,390,Basmati Rice
+430,27,30,"Flavoured, Soya Milk"
+431,275,275,Choco & Nut Spread
+432,24.75,33,Powdered Spices
+433,149.25,199,Men's Deodorants
+434,79,119,Steel Storage Containers
+435,26.73,35,"Beans, Brinjals & Okra"
+436,220,220,Health Drinks
+437,99,129,"Caps, Balloons & Candles"
+438,49,49,"Pen, Pencils"
+439,129.5,185,Face Care
+440,209.3,299,Toilet Cleaners
+441,419,625,Plates & Bowls
+442,409,969,Containers Sets
+443,239,365,Organic & Cold Press Oil
+444,420,420,Juices
+445,349,349,Hand Wash & Sanitizers
+446,38,38,Namkeen & Savoury Snacks
+447,209,339,Containers Sets
+448,37,39,Hair Color
+449,80,80,Flours & Pre-Mixes
+450,215.6,230,Toothpaste
+451,70,70,Floor & Other Cleaners
+452,637.5,750,Hair Oil & Serum
+453,79,99,Face Masks & Safety Gears
+454,1699,1699,Ayurveda
+455,575,745,Basmati Rice
+456,17,21.25,Root Vegetables
+457,47.5,50,Organic Masalas & Spices
+458,190,190,"Healthy, Baked Snacks"
+459,425,425,Glassware
+460,80,80,"Organic Rice, Other Rice"
+461,942,1450,Face Care
+462,190,190,Water & Fridge Bottles
+463,1435.5,1595,Eau De Parfum
+464,195,195,Pet Meals & Treats
+465,145,145,"Baking, Cake Decorations"
+466,53,60,Dessert Mixes
+467,256.5,285,Toilet & Other Brushes
+468,52.25,55,Organic Flours
+469,279,279,Shower Gel & Body Wash
+470,279,279,Health Drinks
+471,395,395,"Curry Paste, Coconut Milk"
+472,157.25,185,Talc
+473,149,285,CFL & Led Bulbs
+474,85,85,Breakfast & Snack Mixes
+475,50,50,"Toffee, Candy & Lollypop"
+476,80,80,Blended Masalas
+477,145,290,Hair Oil & Serum
+478,468,650,Shampoo & Conditioner
+479,259,426,"Bath Stool, Basin & Sets"
+480,27,30,Cream Biscuits & Wafers
+481,175,175,Bathing Accessories
+482,589,1350,"Pure, Pomace Olive Oil"
+483,346.5,385,Thai & Asian Sauces
+484,219,258,Dust Cloth & Wipes
+485,196,199,Colours & Crayons
+486,150,250,Face Care
+487,32,40,Organic Masalas & Spices
+488,180,180,Mosquito Repellent
+489,349,349,"Jams, Marmalade, Spreads"
+490,195,195,Body Care
+491,117,130,Supplements & Proteins
+492,173,215,"Sunflower, Rice Bran Oil"
+493,299,395,Face Masks & Safety Gears
+494,24,24,Powdered Spices
+495,270,270,Salad Dressings
+496,200,200,Ayurveda
+497,300,300,Sexual Wellness
+498,150,150,Farm Eggs
+499,292.5,390,Face Care
+500,656.25,875,Dry Fruits & Berries
+501,1077.02,1099,Diapers
+502,315,315,Kids (5+Yrs)
+503,25,30,Cream Biscuits & Wafers
+504,125,125,"Cookies, Biscotti, Wafer"
+505,72,72,Bathing Bars & Soaps
+506,466.2,630,Shampoo & Conditioner
+507,237.5,250,Milk & Soya Drinks
+508,649,649,Ayurveda
+509,45,59,Kitchen Tools & Other Accessories
+510,401.33,599,Dry Fruits & Berries
+511,57,70,"Utensil Scrub-Pad, Glove"
+512,850.26,1149,Diapers
+513,13,16.25,Organic Vegetables
+514,175,350,Face Care
+515,20.9,22,Bathing Bars & Soaps
+516,40.95,63,Blended Masalas
+517,426.3,525,Toothpaste
+518,108,120,"Paneer, Tofu & Cream"
+519,110.5,130,Roasted Seeds & Nuts
+520,59.4,99,Roasted Seeds & Nuts
+521,340,400,Hand Wash & Sanitizers
+522,126,140,"Jams, Marmalade, Spreads"
+523,90.25,95,Powdered Spices
+524,900,1000,Honey & Maple Syrup
+525,110,110,Ayurveda
+526,145.2,165,Supplements & Proteins
+527,66,66,Blended Masalas
+528,79,107,"Laundry, Storage Baskets"
+529,49,70,Milk & Soya Drinks
+530,149,149,Exam Pads & Pencil Box
+531,39,50,Salted Biscuits
+532,107,150,Body Care
+533,126.65,149,"Healthy, Baked Snacks"
+534,299,299,Hair Care & Styling
+535,320,320,"Luxury Chocolates, Gifts"
+536,300,300,Chikki & Gajjak
+537,160,200,Chilli & Soya Sauce
+538,396,495,Pastas & Spaghetti
+539,267.75,315,"Marshmallow, Candy, Jelly"
+540,139,189,Baking Tools & Brushes
+541,99,99,Baby Powder
+542,105.6,110,Body Care
+543,169,299,Glassware
+544,39.6,66,Blended Masalas
+545,335.81,440,Bathing Bars & Soaps
+546,80,80,Other Plastic Ware
+547,575,575,Floor & Other Cleaners
+548,99,99,"Healthy, Baked Snacks"
+549,89.1,99,"Cookies, Biscotti, Wafer"
+550,108,110,Colours & Crayons
+551,870,1020,Tawa & Sauce Pan
+552,245,265,Granola & Cereal Bars
+553,119,199,"Luxury Chocolates, Gifts"
+554,2415,3450,Eau De Toilette
+555,675,675,Face Care
+556,98,100,"Pen, Pencils"
+557,120,120,Ayurveda
+558,229,280,Glassware
+559,139,189,"Olive, Jalapeno, Gherkin"
+560,68,85,Shaving Care
+561,60,60,Breakfast & Snack Mixes
+562,40,50,Organic Vegetables
+563,75,150,Green Tea
+564,99.36,120,Bathing Bars & Soaps
+565,195,195,Frozen Fish & Seafood
+566,165.75,195,Men's Deodorants
+567,572,572,Ayurveda
+568,359,510,"Cutlery, Spoon & Fork"
+569,450,450,"Healthy, Baked Snacks"
+570,475.2,528,Chilli & Soya Sauce
+571,175.5,195,Body Sprays & Mists
+572,220,220,Toilet & Other Brushes
+573,325,325,Toilet Paper
+574,625,625,Flavoured & Other Oils
+575,525,875,Exotic & Flavoured Tea
+576,1150,1300,"Mops, Wipers"
+577,224,329,"Notebooks, Files, Folders"
+578,220.5,245,Mouthwash
+579,109.2,140,Leaf & Dust Tea
+580,99,99,Cocktail Mixes
+581,750,750,Intimate Wash & Care
+582,309,889,"Pure, Pomace Olive Oil"
+583,685,685,Hair & Scalp Treatment
+584,31.5,35,"Baking, Cake Decorations"
+585,325,325,"Pure, Pomace Olive Oil"
+586,465,500,Pet Meals & Treats
+587,43.7,46,Blended Masalas
+588,240,240,International Cheese
+589,343.2,429,Baby Oil & Shampoo
+590,77.17,105,"Flavoured, Soya Milk"
+591,475,475,Face Care
+592,469,602,Lunch Boxes
+593,79,160,Yogurt & Shrikhand
+594,749,749,"Curry Paste, Coconut Milk"
+595,350,350,International Chocolates
+596,77,77,"Organic Sugar, Jaggery"
+597,190,200,Heat & Eat Ready Meals
+598,400,400,"Luxury Chocolates, Gifts"
+599,500,500,Roasted Seeds & Nuts
+600,115,125,"Paneer, Tofu & Cream"
+601,149,230,"Laundry, Storage Baskets"
+602,700,700,Eau De Parfum
+603,60,60,Ayurveda
+604,600,600,Fresh Sweets
+605,180,225,Shaving Care
+606,110,110,Tomato Ketchup & Sauces
+607,69,115,Containers Sets
+608,303.3,363,Disinfectant Spray & Cleaners
+609,120,120,Air Freshener
+610,300,300,Chikki & Gajjak
+611,205,205,Chicken Sausages
+612,869,1230,Face Care
+613,299.4,499,Face Care
+614,67.5,75,"Cookies, Biscotti, Wafer"
+615,70,70,"Healthy, Baked Snacks"
+616,399,399,Shampoo & Conditioner
+617,96.8,110,Juices
+618,200,400,Exotic & Flavoured Tea
+619,239,399,Containers Sets
+620,240,240,"Hangers, Clips & Rope"
+621,517.5,575,Bath & Shower
+622,240,240,Face & Body
+623,243.75,325,Gourmet Tea & Tea Bags
+624,37.25,149,"Bakery Biscuits, Cookies"
+625,85,99,"Bakery Biscuits, Cookies"
+626,76.8,80,Face Care
+627,209,389,Water & Fridge Bottles
+628,48,52,"Strainer, Ladle, Spatula"
+629,171.5,268,Toothpaste
+630,99,99,Baby Food
+631,307.5,410,Shampoo & Conditioner
+632,550,550,Supplements & Proteins
+633,64,85,Organic Dals & Pulses
+634,49,49,"Healthy, Baked Snacks"
+635,175,175,Nachos & Chips
+636,35,35,Chocolates
+637,210,210,Imported Noodles
+638,90.25,95,"Baking, Cake Decorations"
+639,59.25,79,Herbs & Seasoning
+640,95,95,"Aerated, Still, Sparkling"
+641,35,35,Bathing Bars & Soaps
+642,231,420,Men's Deodorants
+643,295,295,Ayurveda
+644,168,229,Electronic Accessories
+645,129,129,"Kitchen, Glass & Drain"
+646,159,245,Glassware
+647,139.5,155,"Curry Paste, Coconut Milk"
+648,449.25,599,Gourmet Tea & Tea Bags
+649,99,99,Pet Meals & Treats
+650,290,290,Cereal & Granola Bars
+651,219,249,Wall Hooks & Hangers
+652,175,175,Imported Cleaners
+653,604,1000,Other Dry Fruits
+654,260,325,Cooking Pastes
+655,80,80,Instant Noodles
+656,143,220,Women's Deodorants
+657,275,275,Instant Noodles
+658,912,1704,Pastas & Spaghetti
+659,425.73,774,Face Care
+660,209,342,Containers Sets
+661,505.75,595,Eye Care
+662,150,150,Other Veg Pickle
+663,45,50,Imported Noodles
+664,128.25,135,"Baking, Cake Decorations"
+665,1500,1500,Air Freshener
+666,550,550,Honey
+667,66.5,70,"Scissor, Glue & Tape"
+668,147,245,Quinoa & Grains
+669,90,90,Namkeen & Savoury Snacks
+670,349,599,Steel Lunch Boxes
+671,99,250,Kitchen Tools & Other Accessories
+672,230,230,"Tinned, Packed Sweets"
+673,15,15,Shower Gel & Body Wash
+674,185,199,Lighters
+675,450,540,Garbage Bags
+676,3612.5,4250,Pet Meals & Treats
+677,119.2,149,Air Freshener
+678,225,300,Toilet Cleaners
+679,57,60,Organic Masalas & Spices
+680,420,420,Granola & Cereal Bars
+681,112.5,125,Everyday Medicine
+682,499,684,Glassware
+683,349,399,Lunch Boxes
+684,249,249,Soothers & Teethers
+685,299,299,Aromatherapy
+686,199,199,Baby Food
+687,299,299,Fresh Sweets
+688,159,159,Muffins & Cup Cakes
+689,539.1,1198,Gourmet Tea & Tea Bags
+690,223.2,279,Men's Deodorants
+691,325,325,Chicken Sausages
+692,450,450,Ayurveda
+693,798,798,Health Drinks
+694,58,58,Air Freshener
+695,342,380,International Cheese
+696,18,22.5,Cut & Peeled Veggies
+697,21,35,Powdered Spices
+698,40,40,Breakfast & Snack Mixes
+699,138,170,Honey
+700,160,199,Exam Pads & Pencil Box
+701,150,150,Ayurveda
+702,161.25,215,Face Care
+703,129,252,Containers Sets
+704,87,150,Electronic Accessories
+705,99,165,Roasted Seeds & Nuts
+706,55,55,Namkeen & Savoury Snacks
+707,135,199,Organic Dals & Pulses
+708,50,50,Mints & Chewing Gum
+709,469,469,Containers Sets
+710,13.4,20,Nachos & Chips
+711,895,895,Cocktail Mixes
+712,599,699,Lunch Boxes
+713,120,120,Namkeen & Savoury Snacks
+714,619,875,"Organic Rice, Other Rice"
+715,440,440,Pet Meals & Treats
+716,95,95,Ayurveda
+717,100,120,Ground Coffee
+718,29.75,35,Chips & Corn Snacks
+719,295,295,"Herbs, Seasonings & Rubs"
+720,499,499,"Healthy, Baked Snacks"
+721,152,160,Toothpaste
+722,210,210,Buckets & Mugs
+723,299.25,399,Perfume
+724,142.5,190,Face Care
+725,436.5,485,Face Care
+726,455,455,Dry Fruits & Berries
+727,57,57,Lime & Mango Pickle
+728,310,310,Face Care
+729,130,160,"Toor, Channa & Moong Dal"
+730,202.5,270,Face Care
+731,135,135,Urad & Other Dals
+732,519,528,"Laundry, Storage Baskets"
+733,110,110,Imported Noodles
+734,206.25,275,Eyes
+735,440,440,Water & Fridge Bottles
+736,297.5,425,Green Tea
+737,699,999,Kadai & Fry Pans
+738,75,75,Powdered Spices
+739,249,329,Containers Sets
+740,510,600,Cereal & Granola Bars
+741,388.08,450,"Fabric Pre, Post Wash"
+742,60,60,Powdered Spices
+743,38,40,Blended Masalas
+744,350,350,Coffee & Pre-Mix
+745,50,50,Cup Noodles
+746,360,360,Pet Feeding Support
+747,489,660,Glassware
+748,96,100,"Flavoured, Soya Milk"
+749,210.96,282,Toothpaste
+750,449,449,International Cheese
+751,390,390,Pet Cleaning & Grooming
+752,600,600,Lunch Boxes
+753,185,230,Mouthwash
+754,1319.4,2199,Perfume
+755,450,450,Coffee & Pre-Mix
+756,1450,1450,Supplements & Proteins
+757,265,265,Non Veg Pickle
+758,395,395,Hair & Scalp Treatment
+759,497.17,599,Balsamic & Cider Vinegar
+760,235,235,Baby Powder
+761,400,400,Face Care
+762,80,80,Gourmet Tea & Tea Bags
+763,450,450,Hair Removal
+764,269,269,Frozen Non-Veg Snacks
+765,375,475,Organic Dry Fruits
+766,1180,1180,Frozen Fish & Seafood
+767,295,295,Hair Oil & Serum
+768,26,32.5,Cut & Peeled Veggies
+769,75,150,Green Tea
+770,450,450,Imported Cleaners
+771,120,120,Sanitary Napkins
+772,409,558,Glassware
+773,70,75,Organic Masalas & Spices
+774,50,50,Namkeen & Savoury Snacks
+775,160,200,Dips & Dressings
+776,1600,2000,Bath Salts & Oils
+777,139,189,Bathing Accessories
+778,232,335,Face Care
+779,89,89,Mayonnaise
+780,85,85,Bathing Accessories
+781,299,299,"Chocolate, Peanut Spread"
+782,189,189,Eye Care
+783,429,799,Tawa & Sauce Pan
+784,249,299,Face Masks & Safety Gears
+785,225,225,Hand Wash & Sanitizers
+786,598,598,Pastas & Spaghetti
+787,279,299,Gingelly Oil
+788,57,60,Organic Dals & Pulses
+789,322.5,430,Ayurveda
+790,264,264,Plates & Bowls
+791,360,450,Men's Deodorants
+792,445,445,Flours & Pre-Mixes
+793,499,499,Thai & Asian Sauces
+794,2000,2000,Supplements & Proteins
+795,145,145,Rice & Other Flours
+796,114,120,Juices
+797,149,149,"Mops, Wipers"
+798,157.5,175,"Hummus, Cheese, Salsa Dip"
+799,481.5,535,Honey & Maple Syrup
+800,120,120,Roasted Seeds & Nuts
+801,595,595,Infant Formula
+802,198,198,Hand Wash & Sanitizers
+803,600,600,Granola & Cereal Bars
+804,120,120,Exotic Sugar & Salt
+805,115,150,"Cutlery, Spoon & Fork"
+806,295,295,Men's Deodorants
+807,90,90,Cooking Pastes
+808,1099,1099,Glassware
+809,699,699,Other Dry Fruits
+810,72,72,Shoe Polish
+811,339,769,Containers Sets
+812,499,499,"Pure, Pomace Olive Oil"
+813,149,192,"Cups, Mugs & Tumblers"
+814,141.55,149,Green Tea
+815,90,90,"Papads, Ready To Fry"
+816,1195,1195,Face Masks & Safety Gears
+817,36,40,Cookies
+818,307,307,Buckets & Mugs
+819,100,100,Breakfast & Snack Mixes
+820,249,349,"Mops, Wipers"
+821,405,699,Fresh Fish
+822,697,850,Face Care
+823,100,110,Frozen Veg Snacks
+824,349,564,Plates & Bowls
+825,209,499,Water & Fridge Bottles
+826,109,130,Glassware
+827,105,147,Namkeen & Savoury Snacks
+828,37.8,42,Blended Masalas
+829,140,140,Flours & Pre-Mixes
+830,199,320,Dustbins
+831,219,328,Steel Storage Containers
+832,193.5,215,Bathing Bars & Soaps
+833,195,195,Flavoured & Other Oils
+834,150,200,Face Care
+835,164,200,Juices
+836,58.5,65,Soups
+837,929,1272,Glassware
+838,28,35,Organic Vegetables
+839,44,44,Baby Wipes
+840,226,350,Face & Body
+841,153,170,"Baking, Cake Decorations"
+842,550,550,Frozen Mutton
+843,180,180,Face Care
+844,80.88,94,Instant Noodles
+845,35,35,Blended Masalas
+846,140,140,Syrups & Concentrates
+847,97,97,Sugar & Jaggery
+848,129,199,Steel Storage Containers
+849,156.75,170,Sanitary Napkins
+850,1530,1800,Face Care
+851,449,449,"Baking, Cake Decorations"
+852,166,195,Green Tea
+853,249,301,"Laundry, Storage Baskets"
+854,249,256,"Notebooks, Files, Folders"
+855,145,181.25,Apples & Pomegranate
+856,225,225,Shampoo & Conditioner
+857,79,79,"Healthy, Baked Snacks"
+858,160.2,178,Mosquito Repellent
+859,175,175,Ayurveda
+860,108,120,Face Care
+861,700,700,Chocolates
+862,349,435,"Cups, Mugs & Tumblers"
+863,30,30,"Marshmallow, Candy, Jelly"
+864,262.65,309,"Detergent Powder, Liquid"
+865,199,199,Bathing Bars & Soaps
+866,150,250,Men's Deodorants
+867,280,280,"Detergent Powder, Liquid"
+868,49.5,55,Soups
+869,99,99,Dust Cloth & Wipes
+870,34,40,Cookies
+871,120,120,Blended Masalas
+872,299,299,Shaving Care
+873,499,499,Honey & Maple Syrup
+874,60,60,Kids Cereal
+875,247,380,Face Care
+876,449,449,Gourmet Tea & Tea Bags
+877,449.1,499,Balsamic & Cider Vinegar
+878,208,260,Face Care
+879,325,325,Pastas & Spaghetti
+880,74.25,99,Shampoo & Conditioner
+881,2800,2800,"Pure, Pomace Olive Oil"
+882,250,250,"Jams, Marmalade, Spreads"
+883,237.5,250,"Organic Rice, Other Rice"
+884,1200,1200,Face Care
+885,149,269,CFL & Led Bulbs
+886,389,389,Butter & Cream
+887,89.25,105,Toothpaste
+888,159.2,199,Men's Deodorants
+889,149,149,Baby Bath
+890,89,89,"Healthy, Baked Snacks"
+891,65,65,Whole Spices
+892,180,180,Kitchen Rolls
+893,115,115,Breakfast & Snack Mixes
+894,225,299,Men's Deodorants
+895,242,350,Boiled & Steam Rice
+896,156.75,165,Aromatherapy
+897,419.3,599,Eau De Toilette
+898,175,175,Kids Cereal
+899,10,10,Chips & Corn Snacks
+900,72,72,Air Freshener
+901,120,120,"Healthy, Baked Snacks"
+902,71.1,79,Disinfectant Spray & Cleaners
+903,228,300,Boiled & Steam Rice
+904,42.24,48,Blended Masalas
+905,190,190,Ayurveda
+906,92,115,Extra Virgin Olive Oil
+907,160,160,Powdered Spices
+908,153.75,205,Face Care
+909,225,225,"Healthy, Baked Snacks"
+910,85,100,Toothpaste
+911,249,408,Buckets & Mugs
+912,68,68,Breakfast & Snack Mixes
+913,790,790,Muesli & Rice Cakes
+914,52.25,55,Organic Masalas & Spices
+915,79,109,Herbs & Seasoning
+916,329,459,Steel Storage Containers
+917,159,182,"Laundry, Storage Baskets"
+918,399,599,Tawa & Sauce Pan
+919,12.75,15,Face Care
+920,225,225,Canned Seafood
+921,225.5,275,Intimate Wash & Care
+922,449.1,499,Body Care
+923,36,40,Cookies
+924,390,390,Lunch Boxes
+925,149,149,Air Freshener
+926,200,200,Salad Dressings
+927,549,1299,Copper Utensils
+928,296,370,Vinegar
+929,142.5,190,Toothbrush
+930,63,63,Face Care
+931,2379,3395,Dinner Sets
+932,180,200,"Olive, Jalapeno, Gherkin"
+933,65,65,Ayurveda
+934,209,260,Bathing Accessories
+935,159,199,Shampoo & Conditioner
+936,5320,5600,Pressure Cookers
+937,45,45,Chips & Corn Snacks
+938,300,300,Organic Baby Food
+939,199,225,Choppers & Graters
+940,715,715,Infant Formula
+941,175,175,Organic Baby Food
+942,195.02,199,Shaving Care
+943,35,43.75,Organic Vegetables
+944,101.25,135,Cheese
+945,99,125,"Toffee, Candy & Lollypop"
+946,279,362,Containers Sets
+947,51.75,69,Herbs & Seasoning
+948,180,180,Thai & Asian Sauces
+949,299,299,Shower Gel & Body Wash
+950,43.2,48,"Baking, Cake Decorations"
+951,250,250,"Herbs, Seasonings & Rubs"
+952,40,40,Tools & Accessories
+953,220,220,"Scissor, Glue & Tape"
+954,359,438,Glassware
+955,730,730,Pet Collars & Leashes
+956,186,249,Face Care
+957,120,130,Chutney Powder
+958,1999,1999,Honey & Maple Syrup
+959,59,65,Air Freshener
+960,239,339,Organic Masalas & Spices
+961,289,289,Muffins & Cup Cakes
+962,152,160,Frozen Veg Snacks
+963,171,180,Face Care
+964,225,225,Plates & Bowls
+965,140,150,"Bakery Biscuits, Cookies"
+966,151.2,180,Dust Cloth & Wipes
+967,439,485,Glassware
+968,144,180,Face Care
+969,599,599,Gardening Tools
+970,10,12.5,Indian & Exotic Herbs
+971,1120,1600,Face Care
+972,225,250,Frozen Non-Veg Snacks
+973,389,809,Racks & Holders
+974,65,65,Organic Masalas & Spices
+975,219,219,Kitchen Tools & Other Accessories
+976,988,1190,Muesli & Rice Cakes
+977,395,395,"Curry Paste, Coconut Milk"
+978,649,1299,Copper Utensils
+979,200,200,"Chocolate, Peanut Spread"
+980,140,140,Dust Cloth & Wipes
+981,68.25,75,Cooking Pastes
+982,234,295,Sugar & Jaggery
+983,10,10,Namkeen & Savoury Snacks
+984,499,499,Face & Body
+985,131.75,155,Mukhwas
+986,309.6,363,Disinfectant Spray & Cleaners
+987,117,130,Face Care
+988,455,455,Face Care
+989,210,210,Supplements & Proteins
+990,367.54,499,Face & Body
+991,27,30,Cream Biscuits & Wafers
+992,424.15,499,Organic Masalas & Spices
+993,140,140,Chicken Sausages
+994,595,595,Men's Deodorants
+995,168.75,225,Women's Deodorants
+996,250.9,420,Women's Deodorants
+997,48,48,Namkeen & Savoury Snacks
+998,137.75,145,Frozen Veg Snacks
+999,215,215,Face Care

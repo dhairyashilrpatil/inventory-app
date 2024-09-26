@@ -1,200 +1,72 @@
-
 import javax.swing.*;
-import javax.swing.border.Border;
-
 import java.awt.*;
 import java.awt.event.*;
 
-class myframe implements ActionListener
-{
-JFrame jf;
-JButton jb,jb1;
+// Class for the main frame where the user chooses Employee or Owner
+class myframe implements ActionListener {
+    JFrame mainFrame;
+    JButton employeeButton, ownerButton; // Class-level buttons
 
-JPanel jp;
-//Border b;
+    public myframe(String s) {
+        mainFrame = new JFrame(s);
+        mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        mainFrame.setExtendedState(JFrame.MAXIMIZED_BOTH); // Full screen
+        mainFrame.setLayout(new GridLayout(1, 2)); // 1 row, 2 columns
 
+        // Initialize buttons with images
+        employeeButton = new JButton("EMPLOYEE", new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\employee.png"));
+        ownerButton = new JButton("OWNER", new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\owner.png"));
 
+        // Set button appearance
+        employeeButton.setContentAreaFilled(false);
+        employeeButton.setFocusPainted(false);
+        ownerButton.setContentAreaFilled(false);
+        ownerButton.setFocusPainted(false);
 
-    public myframe(String s)
-    {
-       jf=new JFrame(s);
-      
-       jf.setBounds(300,150,1000,430);
+        // Set font for both buttons
+        employeeButton.setFont(new Font("Arial", Font.BOLD, 20));
+        ownerButton.setFont(new Font("Arial", Font.BOLD, 20));
 
-       jb=new JButton("OWNER",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\owner.png"));
-      
-       jb.addActionListener(this);
-       jp=new JPanel();
+        // Add buttons to the main frame
+        mainFrame.add(employeeButton);
+        mainFrame.add(ownerButton);
 
+        // Add action listeners for buttons
+        employeeButton.addActionListener(this);
+        ownerButton.addActionListener(this);
 
-       jb1=new JButton("EMPLOYEE",new ImageIcon("D:\\dhairyashil\\inventory\\inventory\\images\\employee.png"));
-       
-       jb1.addActionListener(this);
-
-
-       jp.add(jb);
-       jp.add(jb1);
-
-       Border b=BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLACK));
-
-       jp.setBorder(b); 
-     
-       jf.add(jp);
-
-       jf.setLayout(new FlowLayout());
-       jf.setVisible(true);
-       jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-     
-       
+        // Set frame visibility
+        mainFrame.setVisible(true);
     }
-    
-    
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        if(e.getSource()==jb)
-        {
-            jf.setVisible(false);
-            loginpage1 l1=new loginpage1();
-        }
-        else if(e.getSource()==jb1)
-        {
-            jf.setVisible(false);
-            loginpage2 l2=new loginpage2();
-            
-
+        if (e.getSource() == employeeButton) {
+            mainFrame.setVisible(false);
+            // Assuming loginpage2 is a valid class handling the Employee login
+            loginpage2 l1 = new loginpage2(); 
+        } else if (e.getSource() == ownerButton) {
+            mainFrame.setVisible(false);
+            // Assuming loginpage1 is a valid class handling the Owner login
+            loginpage1 l2 = new loginpage1();
         }
     }
 
-
-
+    public void setVisible(boolean b) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setVisible'");
+    }
 }
 
-public class loginpage
-{
+// Main class to launch the login page
+public class loginpage {
     public static void main(String[] args) {
-        myframe mf=new myframe("login page");
+        myframe mf = new myframe("LOGIN PAGE");
+    }
+
+    // Set visibility method if needed
+    public void setVisible(boolean b) {
+        // Method can be implemented depending on requirements
+        // JFrame.setVisible(b) could be used if necessary
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*import java.awt.*;
-import java.awt.event.*;
-//import java.awt.image.BufferedImage;
-//import java.io.File;
-import java.io.IOException;
-import javax.swing.*;
-
-//import javax.imageio.ImageIO;
-
-
-class myframe implements ActionListener
-{
-    Frame f;
-    Button submit;
-    TextField user,pass;
-    Label l1,l2;
-   // BufferedImage bi;
-
-
-
-    public String username="dhairyashil";
-    public String Password="drpatil";
-
-    String u,p;
-
-    
-    myframe(String s) //throws IOException
-    {
-        f=new Frame();
-       
-        user=new TextField();
-        user.setBounds(500, 200, 100, 25);
-        pass=new TextField();
-        pass.setBounds(500, 250, 100, 25);
-        submit=new Button("ok");
-        submit.setBounds(500,300,100,25);
-        submit.addActionListener(this);
-
-        f.setBackground(Color.pink);
-        
-    
-
-    
-
-        l1=new Label("username");
-        l2=new Label("password");
-
-        l1.setBounds(420, 200, 70, 20);
-        l2.setBounds(420, 250, 70, 20);
-
-
-        f.add(l1);
-        f.add(l2);
-        f.add(user);
-        f.add(pass);
-        f.add(submit);
-        
-        //bi=ImageIO.read(new File("D:\\dhairyashil\\inventory\\inventory\\images\\background_login.jpg"));
-
-
-        Toolkit t =f.getToolkit();
-        Dimension d=t.getScreenSize();
-        int width =d.width*8/10;
-        int height=d.height*8/10;
-
-        f.setBounds(width/8, height/8, width, height);
-        
-        f.setLayout(null);
-        f.setVisible(true);
-       
-    }
-
-    public void actionPerformed(ActionEvent e)
-    {  
-        String a=user.getText();
-        String b=pass.getText();
-
-        if(username.equals(a)&&Password.equals(b))
-        {
-            mainpage mp=new mainpage();
-        } 
-       
-    }
-    /*public void paint(Graphics g)
-    {
-        
-        g.drawImage(bi, 0, 0, user);
-    }
-}
-
-
-public class loginpage{
-    public static void main(String[] args) throws IOException {
-
-        myframe a=new myframe("loginpage");
-        
-    }
-}
-
-*/
-
